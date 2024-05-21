@@ -3,3 +3,4 @@ server:
 application: 
   name: 'App3'
 username: 'shridhar'
+password:'{cipher}AQB7pttt3GBPRMDQ4/FPiKsk9E7nUW0cKy96sda88/hnRhq8AsZkm2Qh1nzHOmeqTS8oPBC7UY6qYg3ieX6LPBBzldp9vi+sodI2hPOzwn3o8lvNoVIFGI//PoSq8DoSCOrwpdzmvuQmg2kPs4lJHNlmw2j9wn03D1Kv6A4xXUi3GwO+qy6XVjtndUToMe7SyKjJfpMfmJhQyQZTD4GIqFJOrhFxdG0LZtrZmsEx+U3YQ2b0EVhh50ozHMBvu+xRhPbRfItyvwQfYO7GbXZlhHIAlLBp3FRynNCL3zI4e0S6VdwH1MqCTKH2jICrs2se/NPpaSdFg1qYLHTp11YL0uESUhW6zFhLqR5W8O1b1Ed+FRUhZSmWwf7jr4O/GhRVKTQ='
